@@ -27,6 +27,7 @@ public class ValidDate {
         String month = "";
         String day = "";
         String year = "";
+        String birthday="";
 
         int maxDay = 0;
 
